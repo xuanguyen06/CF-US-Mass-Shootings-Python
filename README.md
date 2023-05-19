@@ -16,4 +16,4 @@ The dataset used is collected by the Gun Violence Archive (GVA), whose mission i
 [US Mass Shootings](https://www.gunviolencearchive.org/reports)
 
 ## Tableau Storyboard
-[US Mass Shootings Storyboard[(https://public.tableau.com/app/profile/xuan.nguyen1929/viz/MassShootingsintheUnitedStates2014-2013/Story1)
+[US Mass Shootings Storyboard](https://public.tableau.com/app/profile/xuan.nguyen1929/viz/MassShootingsintheUnitedStates2014-2013/Story1)
